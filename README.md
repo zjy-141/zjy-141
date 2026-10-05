@@ -8,8 +8,9 @@
 
 [![Email](https://img.shields.io/badge/Email-zhangjiyao555@stu.xjtu.edu.cn-blue?style=flat-square&logo=maildotru&logoColor=white)](mailto:zhangjiyao555@stu.xjtu.edu.cn)
 [![GitHub](https://img.shields.io/badge/GitHub-zjy--141-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zjy-141)
-[![Tuxun](https://img.shields.io/badge/Project-图寻-00A86B?style=flat-square&logo=googlechrome&logoColor=white)](https://tuxun.tiaozhan.com)
-[![Practice](https://img.shields.io/badge/Project-社会实践平台-1E90FF?style=flat-square&logo=googlechrome&logoColor=white)](https://shijian.tiaozhan.com/)
+[![Website](https://img.shields.io/badge/Website-zjy--141.github.io-00A86B?style=flat-square&logo=googlechrome&logoColor=white)](https://zjy-141.github.io/)
+[![Tuxun](https://img.shields.io/badge/Project-图寻-1E90FF?style=flat-square&logo=googlechrome&logoColor=white)](https://tuxun.tiaozhan.com)
+[![Practice](https://img.shields.io/badge/Project-社会实践平台-FF8C00?style=flat-square&logo=googlechrome&logoColor=white)](https://shijian.tiaozhan.com/)
 
 </div>
 
@@ -118,6 +119,7 @@
 
 ## 关于我
 
+- 个人网站：https://zjy-141.github.io/
 - 喜欢从零搭建系统，也喜欢把模型真正跑起来。
 - 对后端工程、大模型训练与推理、机器学习底层原理有持续兴趣。
 - 正在自学机器学习，逐步建立算法与模型背后的数学直觉。
