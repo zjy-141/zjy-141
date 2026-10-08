@@ -46,7 +46,6 @@
 ![PEFT](https://img.shields.io/badge/PEFT-FF6F00?style=flat-square&logo=python&logoColor=white)
 
 **前端了解**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue3](https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
 ---
