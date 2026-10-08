@@ -10,8 +10,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-zjy--141-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zjy-141)
 [![Website](https://img.shields.io/badge/Website-zjy--141.github.io-00A86B?style=flat-square&logo=googlechrome&logoColor=white)](https://zjy-141.github.io/)
 [![Tuxun](https://img.shields.io/badge/Project-图寻-1E90FF?style=flat-square&logo=googlechrome&logoColor=white)](https://tuxun.tiaozhan.com)
-[![Practice](https://img.shields.io/badge/Project-社会实践平台-FF8C00?style=flat-square&logo=googlechrome&logoColor=white)](https://shijian.tiaozhan.com/)
-
 </div>
 
 ---
